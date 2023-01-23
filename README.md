@@ -19,3 +19,8 @@ The code is open-source, so you can easily customize it to suit your needs. So, 
 
 Please note that this is a basic tool and should be used for educational or personal use only. Do not use it for any illegal activities.
 
+![Screenshot (3)](https://user-images.githubusercontent.com/56287701/213979286-9944390f-c5aa-4dee-a835-ce10a7aa0457.png)
+
+![Screenshot (5)](https://user-images.githubusercontent.com/56287701/213979537-d7624d23-997b-4327-bf08-189f2c0718f2.png)
+
+![Screenshot (7)](https://user-images.githubusercontent.com/56287701/213979830-f7ea0b43-cb88-467f-91f4-f7c11a5494ac.png)
